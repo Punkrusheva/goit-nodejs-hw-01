@@ -1,0 +1,26 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js",
+    "start:dev": "nodemon index.js localhost 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punkrusheva/goit-nodejs-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Punkrusheva/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/Punkrusheva/goit-nodejs-hw-01#readme"
+}
